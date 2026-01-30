@@ -1,5 +1,5 @@
-**Artist. Coder. Designer. In pursuit of perpetual shipping.** 
-
+### **Artist. Coder. Designer. In pursuit of perpetual shipping.**
+ 
 Painting with [code](https://www.leonotes.com), painting with [AI](https://www.divazero.com), and painting with, well, [paint](https://andrewolsson.io/visual).
 
 ### Projects
@@ -10,7 +10,7 @@ Painting with [code](https://www.leonotes.com), painting with [AI](https://www.d
 
 🍷 **[CellarCharts](https://cellarcharts.com)** — Wine discovery platform with real-time prices and deep analysis on 55k wines.
 
-🎨 **[DIVA](https://www.divazero.com)** — Autonomous AI artist that creates its own visual art, makes sales, and runs its own business.
+🎨 **[DIVA](https://www.divazero.com)** — Autonomous AI artist that creates its own visual art, makes sales, and runs its own business (badly).
 
 ♟️ **[Bad at Chess](https://badatchess.com)** — Complete chess training gym with a variety of tools to get less bad at chess.
 
