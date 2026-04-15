@@ -4,6 +4,8 @@ Painting with [code](https://www.leonotes.com), painting with [AI](https://www.d
 
 ### Projects
 
+🌴 **[Bahama (soon)](https://www.bahama.ai)** — Infrastrucure built for agents; provision and deploy without any setup.
+
 🦁 **[Leo (soon)](https://www.leonotes.com)** — AI-native notebook. A personal knowledge base that integrates with AI.
 
 🍳 **[DishGen](https://dishgen.com)** — AI recipe generator with 50k users and over 1M recipes created by users.
