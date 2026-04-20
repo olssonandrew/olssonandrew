@@ -4,7 +4,7 @@ Painting with [code](https://www.leonotes.com), painting with [AI](https://www.d
 
 ### Projects
 
-🎬 **[YouTube @andrew.olsson](https://www.youtube.com/andrew.olsson)** — Where I build in public. Code x creativity in the age of AI. 
+🎬 **[YouTube @andrew.olsson](https://www.youtube.com/@andrew.olsson)** — Where I build in public. Code x creativity in the age of AI. 
 
 🌴 **[Bahama (soon)](https://www.bahama.ai)** — Infrastrucure built for agents; provision and deploy without any setup.
 
